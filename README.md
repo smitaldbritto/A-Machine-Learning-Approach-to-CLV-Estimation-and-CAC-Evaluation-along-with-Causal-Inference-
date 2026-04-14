@@ -1,0 +1,2 @@
+# A-Machine-Learning-Approach-to-CLV-Estimation-and-CAC-Evaluation-along-with-Causal-Inference-
+This project enhances CLV prediction (BG-NBD, Gamma-Gamma, clustering, stacking) with causal inference. It applies ATE, CATE, DML, Causal Forests, along with naive &amp; partial correlations, using a DAG framework and handling collider bias, to uncover true drivers of customer value for better decision-making.
